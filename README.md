@@ -1,2 +1,3 @@
 # NetSniper
-lets you quickly search for things, leting you find alot of things fast and swiftly.
+What it is: A Python script that launches simultaneous searches across Google, Wikipedia, and youtube
+How to use it: Run the script, type your topic, and press enter.
